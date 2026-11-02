@@ -1,12 +1,12 @@
 <div align="center">
   
-  # RhemeCore
+  # ⚡ RhemeCore
   
   *Open-source technology initiative focusing on system optimization, desktop utilities, and lightweight local AI interfaces.*
 
-  [![GitHub Organization](https://img.shields.io/badge/GitHub-RhemeCore-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rheme18)
-  [![Status](https://img.shields.io/badge/Status-Active-2ea44f?style=for-the-badge&logo=github-actions&logoColor=white)]()
-  [![Open Source](https://img.shields.io/badge/Open--Source-YES-blueviolet?style=for-the-badge&logo=opensourceinitiative&logoColor=white)]()
+  [![GitHub Organization](https://img.shields.io/badge/GitHub-RhemeCore-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rheme18)
+  [![Status](https://img.shields.io/badge/Status-Active-10B981?style=flat-square&logo=statuspage&logoColor=white)]()
+  [![Open Source](https://img.shields.io/badge/Open--Source-MIT-6366F1?style=flat-square&logo=open-source-initiative&logoColor=white)]()
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 🚀 About RhemeCore
 
-**RhemeCore** is an independent, open-source software development collective dedicated to building high-performance desktop tools, efficient optimization scripts, and accessible local artificial intelligence integrations. We aim to streamline developer workflows and bring powerful local system utilities to power users.
+**RhemeCore** is an independent, open-source software development collective dedicated to building high-performance desktop tools, efficient optimization scripts, and accessible local AI integrations. We aim to streamline developer workflows and bring powerful local system utilities to power users.
 
 ---
 
@@ -29,14 +29,14 @@ Our primary active repositories maintained under the RhemeCore ecosystem:
 
 ---
 
-## 👥 Core Team & Contributors
+## 👥 Core Team & Roles
 
-RhemeCore is driven by a dedicated team focused on open-source innovation:
+RhemeCore is driven by a specialized core team:
 
-* **Emir Aras Koç (rheme18)** — Founder & Lead Developer
+* **Emir Aras Koç (rheme18)** — Founder & Lead Architect
 * **Alex** — Frontend Developer
 * **Xiarax** — Systems Engineer
-* **Mikail Erdem Özdemir (Fordlo)** — Core Contributor
+* **Mikail Erdem Özdemir (Fordlo)** — Web Designer & Systems Engineer
 
 ---
 
@@ -44,8 +44,8 @@ RhemeCore is driven by a dedicated team focused on open-source innovation:
 
 Stay connected with our development updates and projects:
 
-* **GitHub Organization:** [@rheme18](https://github.com/rheme18)
-* **Official Publications:** [Medium Article](https://medium.com) *(Makale linkini buraya ekleyebilirsin)*
+* **GitHub Organization:** [@rheme18](https://github.com/RhemeCore)
+* **Official Publications:** [Dev.to Articles](https://dev.to/rheme18)
 
 ---
 
