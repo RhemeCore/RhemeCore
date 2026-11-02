@@ -1,6 +1,6 @@
 <div align="center">
   
-  # ⚡ RhemeCore
+  # RhemeCore
   
   *Open-source technology initiative focusing on system optimization, desktop utilities, and lightweight local AI interfaces.*
 
