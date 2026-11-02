@@ -4,9 +4,9 @@
   
   *Open-source technology initiative focusing on system optimization, desktop utilities, and lightweight local AI interfaces.*
 
-  [![GitHub Organization](https://img.shields.io/badge/GitHub-RhemeCore-00F0FF?style=flat-square&logo=github&logoColor=000000)](https://github.com/rheme18)
-  [![Status](https://img.shields.io/badge/Status-Active--Development-00E676?style=flat-square&logo=activity&logoColor=white)]()
-  [![License](https://img.shields.io/badge/License-MIT-7000FF?style=flat-square&logo=git&logoColor=white)]()
+  [![GitHub Organization](https://img.shields.io/badge/GitHub-RhemeCore-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rheme18)
+  [![Status](https://img.shields.io/badge/Status-Active-2ea44f?style=for-the-badge&logo=github-actions&logoColor=white)]()
+  [![Open Source](https://img.shields.io/badge/Open--Source-YES-blueviolet?style=for-the-badge&logo=opensourceinitiative&logoColor=white)]()
 
 </div>
 
